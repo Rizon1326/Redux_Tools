@@ -14,8 +14,8 @@ A simple React application showcasing Redux Toolkit with TypeScript. This projec
 
 ### Prerequisites
 
-- Node.js (version 16 or newer)
-- npm or yarn
+- Node.js 
+- npm
 
 ### Setup Steps
 
